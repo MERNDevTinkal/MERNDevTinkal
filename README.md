@@ -16,7 +16,7 @@ I'm eager to contribute to open-source projects and collaborate on exciting web 
 
 ## 📫 How to reach me:
 
-Feel free to reach out via email at your.email@example.com or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/). I'm always open to networking, discussing potential collaborations, or simply chatting about technology.
+Feel free to reach out via email at tinkalkumar67693@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/tinkal-kumar-9b8013186/). I'm always open to networking, discussing potential collaborations, or simply chatting about technology.
 
 <!---
 MERNDevTinkal/MERNDevTinkal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
