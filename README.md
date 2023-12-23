@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm MERNDevTinkal, a B.Tech student in Computer Science and Engineering!
+# Hi there! 👋 I'm MERNDevTinkal, a MERN Stack Developer!
 
 Welcome to my GitHub profile! I'm a passionate web developer with a focus on full-stack development. Currently pursuing my B.Tech in CSE, I love exploring cutting-edge technologies and building innovative solutions that make a positive impact.
 
