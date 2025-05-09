@@ -1,54 +1,32 @@
- Hi, I'm Tinkal Kumar! 👋  
+👋 Hi, I'm Tinkal Kumar!
+🚀 Full Stack Developer | Focused on Scalable, High-Performance Web Applications
 
- 🚀 MERN Stack Developer | Passionate About Scalable & High-Performance Applications  
+I’m a Full Stack Developer passionate about creating robust, scalable, and high-performing web applications. With strong expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js) and modern tools like TypeScript, Redux Toolkit, and Next.js, I focus on delivering clean, maintainable, and efficient code to solve real-world problems.
 
-I am a **MERN Stack Developer** with a strong passion for building scalable, high-performance applications. I specialize in developing full-stack web applications with **React, Node.js, Express, and MongoDB** while following best coding practices and modern development standards.  
+I enjoy working in fast-paced, collaborative environments where I can contribute to impactful products and continuously grow as a developer. My goal is to stay updated with industry trends and build software that’s not only functional but also optimized for performance and user experience.
 
-Driven by a **problem-solving mindset**, I focus on writing clean, efficient, and maintainable code to create seamless user experiences. I thrive in **fast-paced, collaborative environments** and am always eager to learn new technologies to stay ahead in the industry.  
+🛠 Technical Skills
+Frontend:
+React.js, Next.js, TypeScript, Redux Toolkit, Zustand, Tailwind CSS, ShadCN UI, Bootstrap, HTML5, CSS3
 
-🔹 Technical Skills  
+Backend:
+Node.js, Express.js, REST APIs, JWT Auth, Bcrypt, Multer, Nodemailer, WebSockets (basic)
 
- Frontend Development
-✔ React.js, Redux, Context API, RTK Query  
-✔ HTML, CSS, JavaScript (ES6+), TypeScript  
-✔ Tailwind CSS, Material UI, Bootstrap  
-✔ Responsive & Mobile-First Design  
+Databases & Cloud:
+MongoDB, Mongoose, Firebase Firestore, SQL (basic), Vercel, Netlify, Render
 
-Backend Development
-✔ Node.js, Express.js  
-✔ RESTful APIs, GraphQL  
-✔ Authentication (JWT, OAuth, Firebase Auth)  
-✔ WebSockets for real-time applications  
-
-Database & Cloud 
-✔ MongoDB, Mongoose  
-✔ Firebase Firestore  
-✔ SQL (MySQL, PostgreSQL - Basic)  
-
-DevOps & Tools 
-✔ Git, GitHub, GitHub Actions  
-✔ Docker (Basic), CI/CD Pipelines  
-✔ Cloud Deployment (Vercel, Netlify, Render)  
-
-Other Technologies 
-✔ Web Scraping & Automation (Puppeteer, Cheerio)  
-✔ Payment Integration (Razorpay, Stripe)  
-✔ Performance Optimization & Security Best Practices  
-
----
+Tools & DevOps:
+Git, GitHub, Postman, 
 
 
- 📢 What I’m Currently Learning  
-📌 Real-time WebSockets Implementation  
-📌 Performance Tuning & Server Optimization  
+📚 Currently Exploring
+Real-Time Communication with WebSockets
 
----
+Server Optimization & Performance Tuning
 
- 📫 Connect with Me  
-🔗 **GitHub**: [github.com/MERNDevTinkal](https://github.com/MERNDevTinkal)  
-🔗 **LinkedIn**:https://www.linkedin.com/in/tinkal-kumar-9b8013186/  
-📧 **Email**: tinkalkumar67693@gmail.com  
+📫 Let's Connect
+🔗 GitHub: github.com/MERNDevTinkal
+🔗 LinkedIn: linkedin.com/in/tinkal-kumar-9b8013186
+📧 Email: tinkalkumar67693@gmail.com
 
----
-
-💡 Building solutions that scale, perform, and innovate. 
+💡 Let’s build clean, scalable, and meaningful digital experiences together.
