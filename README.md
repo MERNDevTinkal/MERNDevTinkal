@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Tinkal Kumar
 
-🚀 **Cloud • DevOps • Distributed Systems • Microservices**
+ **Cloud • DevOps • Distributed Systems • Microservices**
 
 I’m a developer focused on **cloud infrastructure, microservices architecture, and scalable distributed systems**. I work with modern DevOps practices to design, deploy, and operate reliable systems using **containerization, orchestration, infrastructure automation, and cloud-native services**.
 
@@ -43,7 +43,7 @@ My interests include **high-availability architecture, fault tolerance, observab
 
 ---
 
-# 🧠 System Architecture
+#  System Architecture
 
 • Microservices Architecture
 • High Availability Systems
